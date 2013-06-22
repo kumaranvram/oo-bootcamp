@@ -1,4 +1,4 @@
 oo-bootcamp
 ===========
 
-OO bootcamp
+OO bootcamp code samples
